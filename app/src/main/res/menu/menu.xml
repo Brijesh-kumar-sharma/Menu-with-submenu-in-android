@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/file"
+        android:title="File"
+        >
+        <menu >
+            <item android:id="@+id/status"
+                android:title="Status">
+
+            </item>
+            <item android:id="@+id/call"
+                android:title="Calls">
+
+            </item>
+
+        </menu>
+
+    </item>
+
+        <item android:id="@+id/coding"
+            android:title="Coding"></item>
+        <item android:id="@+id/programming"
+            android:title="Programming">
+        </item>
+
+
+
+</menu>
